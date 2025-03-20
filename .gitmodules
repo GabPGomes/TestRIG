@@ -44,3 +44,6 @@
 [submodule "riscv-implementations/muntjac"]
 	path = riscv-implementations/muntjac
 	url = https://github.com/CTSRD-CHERI/muntjac.git
+[submodule "riscv-implementations/tinyriscv"]
+	path = riscv-implementations/tinyriscv
+	url = https://github.com/GabPGomes/tinyriscv.git
